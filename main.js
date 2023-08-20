@@ -14,7 +14,7 @@ yes.addEventListener('click', () => {
     con.style.backgroundColor = '#27f01d';
     con.style.boxShadow = '#16ff0a 15px 15px 20px inset, #16ff0a -15px -15px 20px inset, #cf1e1e 0 0 100px';
     
-    txt.innerHTML = ' Yess!! I Finally Got Her😭 <br><br>Tara Coffee Date Tayo Libre Ko 🫶🏻';
+    txt.innerHTML = " Yess!! She's Finally Mine😭 <br><br>Tara Coffee Date Tayo Libre Ko 🫶🏻";
     txt.style.color = '#fff';
     txt.style.textShadow = '1px 1px #131413, -1px -1px #131413, 0 0 20px red';
 });
